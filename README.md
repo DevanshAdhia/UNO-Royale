@@ -4,4 +4,5 @@ At the top, the game title and current turn indicator are shown along with real-
 The center of the screen contains the draw pile and the current active card, which determines valid moves. Game status indicators such as card type and draw pile size update dynamically after every turn. Interactive buttons like UNO, Pass, and New Game allow players to control gameplay flow smoothly.
 The layout ensures clarity by separating the computer area, play zone, and player hand. The UI effectively demonstrates event-driven interaction, turn-based logic, and state management, making the game intuitive, responsive, and visually appealing for a desktop-based UNO experience.
 
-<img width="2906" height="1836" alt="image" src="https://github.com/user-attachments/assets/32eb7be1-0c27-4f98-b1a8-ceffaa8bc8a3" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/59102f26-523f-4a54-9c41-927f015b0740" />
+
